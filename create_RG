@@ -1,0 +1,3 @@
+Create Azure Resource Group 
+
+az group create --name RG-EUS-Practice --location eastus
